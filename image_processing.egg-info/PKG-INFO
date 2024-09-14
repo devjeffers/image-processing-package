@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: image_processing
+Name: meu_primeiro_pacote
 Version: 0.0.1
 Summary: Pacote de testes da aula de criação de pacote de imagens com Python.
 Home-page: https://github.com/devjeffers
@@ -27,7 +27,8 @@ Utils:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing
+pip install meu_primeiro_pacote
+
 ```
 
 ## Author

@@ -1,7 +1,7 @@
-# package_name
+# meu_primeiro_pacote
 
 Description. 
-The package package_name is used to:
+The package meu_primeiro_pacote is used to:
 	- Histogram matching
 	- Structural similarity
 	- Resize image
@@ -14,10 +14,11 @@ Utils:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install meu_primeiro_pacote
 
 ```bash
-pip install image_processing
+pip install meu_primeiro_pacote
+
 ```
 
 ## Author
