@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="meu_primeiro_pacote",
-    version="0.0.1",
+    version="0.0.2",
     author="Jefferson",
     author_email="devsfull.jefferson@gmail.com",
     description="Pacote de testes da aula de criação de pacote de imagens com Python.",
